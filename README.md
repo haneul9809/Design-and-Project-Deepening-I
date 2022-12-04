@@ -3,6 +3,10 @@ PC 사용자를 위한 자세교정 웹페이지 제작
 ## 산출물
 https://konyang-my.sharepoint.com/:f:/g/personal/19615050_konyang_ac_kr/ErBuJj8gOFdKjAVmlokAKKEBne1tA_wxXjmkAC1v0KYd-Q?e=62JzJd
 
+## 시연영상
+https://youtu.be/CodGrCT6Svg
+https://youtu.be/lu6W_NCEVhs
+
 ## 🗓️ 개발 기간
 
 2021/4/6 ~ 2021/6/15
@@ -104,10 +108,9 @@ https://konyang-my.sharepoint.com/:f:/g/personal/19615050_konyang_ac_kr/ErBuJj8g
     
 4. 프로그램 시연을 하기 위해 20명 test
     
-    ![Video Label](https://youtu.be/CodGrCT6Svg)
 
 https://user-images.githubusercontent.com/67767912/205473812-f11d46da-e537-4a83-9ce7-db1ec2beab3c.mp4
-![Video Label](https://youtu.be/lu6W_NCEVhs)
+
     
     - 시연 결과, 사용자가 95% 정도 정확하다고 느꼈음.
     
