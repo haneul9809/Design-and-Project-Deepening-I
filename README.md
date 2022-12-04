@@ -106,11 +106,12 @@ https://youtu.be/CodGrCT6Svg
     - 사이트 배포를 위해 Netlify 사용
     
 4. 프로그램 시연을 하기 위해 20명 test
-    
+
+https://youtu.be/lu6W_NCEVhs
+
 
 https://user-images.githubusercontent.com/67767912/205473812-f11d46da-e537-4a83-9ce7-db1ec2beab3c.mp4
 
-    https://youtu.be/lu6W_NCEVhs
 
     - 시연 결과, 사용자가 95% 정도 정확하다고 느꼈음.
     
