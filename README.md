@@ -104,11 +104,11 @@ https://konyang-my.sharepoint.com/:f:/g/personal/19615050_konyang_ac_kr/ErBuJj8g
     
 4. 프로그램 시연을 하기 위해 20명 test
     
-    https://youtu.be/CodGrCT6Svg
+    ![Video Label](https://youtu.be/CodGrCT6Svg)
 
 https://user-images.githubusercontent.com/67767912/205473812-f11d46da-e537-4a83-9ce7-db1ec2beab3c.mp4
-
-    https://youtu.be/lu6W_NCEVhs
+![Video Label](https://youtu.be/lu6W_NCEVhs)
+    
     - 시연 결과, 사용자가 95% 정도 정확하다고 느꼈음.
     
 ## **💻 내가 담당한 파트**
