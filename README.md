@@ -5,7 +5,6 @@ https://konyang-my.sharepoint.com/:f:/g/personal/19615050_konyang_ac_kr/ErBuJj8g
 
 ## 시연영상
 https://youtu.be/CodGrCT6Svg
-https://youtu.be/lu6W_NCEVhs
 
 ## 🗓️ 개발 기간
 
@@ -111,7 +110,8 @@ https://youtu.be/lu6W_NCEVhs
 
 https://user-images.githubusercontent.com/67767912/205473812-f11d46da-e537-4a83-9ce7-db1ec2beab3c.mp4
 
-    
+    https://youtu.be/lu6W_NCEVhs
+
     - 시연 결과, 사용자가 95% 정도 정확하다고 느꼈음.
     
 ## **💻 내가 담당한 파트**
